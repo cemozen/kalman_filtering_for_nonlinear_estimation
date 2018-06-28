@@ -1,4 +1,6 @@
-# kalman_filtering_for_nonlinear_estimation
+# The Unscented Kalman Filter (UKF) for  Nonlinear Estimation Problems
+*Cem Özen*
+
 ## The Kalman Filter
 
 The Kalman filter is an algorithm that uses the past measurements of the state of a system (also taking into account statistical noise and other inaccuracies) to predict the future state of the system. Its first use was on the Apollo missions to the Moon, but today Kalman filtering is extensively used in a vast array of applications in fields ranging from robotics to econometrics.   
